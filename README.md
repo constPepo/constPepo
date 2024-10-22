@@ -43,16 +43,6 @@
 </div>
 
 ###
-            
-![snake animation](https://github.com/<devPepo>/<devPepo>/blob/output/github-contribution-grid-snake2.svg)
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
 
 
 
